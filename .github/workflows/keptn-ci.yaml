@@ -67,7 +67,7 @@ jobs:
                   "deploymentstrategy": "user_managed"
                 },
                 "message": "",
-                "project": "ms4",
+                "project": "ortelius",
                 "result": "",
                 "service": "$REPO",
                 "stage": "dev",
